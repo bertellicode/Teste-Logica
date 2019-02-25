@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiraVogal", "PrimeiraVogal\PrimeiraVogal.csproj", "{95ABA6CA-F2D1-4F6A-85E2-2B64E59D9CAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiraVogal.Test", "PrimeiraVogal.Test\PrimeiraVogal.Test.csproj", "{6D57D959-62F9-4696-A119-0BF1F9A8C3C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95ABA6CA-F2D1-4F6A-85E2-2B64E59D9CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95ABA6CA-F2D1-4F6A-85E2-2B64E59D9CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95ABA6CA-F2D1-4F6A-85E2-2B64E59D9CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95ABA6CA-F2D1-4F6A-85E2-2B64E59D9CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D57D959-62F9-4696-A119-0BF1F9A8C3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D57D959-62F9-4696-A119-0BF1F9A8C3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D57D959-62F9-4696-A119-0BF1F9A8C3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D57D959-62F9-4696-A119-0BF1F9A8C3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
